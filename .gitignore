@@ -57,3 +57,6 @@ htmlcov/
 # Logs
 *.log
 logs/
+
+# Claude Code local settings (machine-specific permission allowlist)
+.claude/settings.local.json
